@@ -2,7 +2,7 @@
 ## Unit 1: Introduction
 Unit 1: Introduction \
 1.1 Definition of Economics. Central Problems of the Economy.\
-1.2 Micro and Macro Economics – Meaning; Difference, Importance and Limitations.\
+1.2 Micro and Macro Economics – Meaning; Difference, Importance and Limitations.
 
 ## Unit 2: Micro Economics
 2.1 Law of diminishing Marginal Utility; Law of Equi - Marginal Utility. \
